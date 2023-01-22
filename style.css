@@ -1,4 +1,17 @@
 header {
-    border: 5px solid #87CEEB;
+    border: 5px solid:#E5E0FF;
     border-radius:25px;   
+}
+body {
+    background-color:#E5E0FF;
+}
+hr{
+    border-style:dotted none none none;
+    border-top-color:#7286D3;
+    width:10%;
+    border-width:0.5em;
+
+}
+h1{
+    color:#FFF2F2;
 }
